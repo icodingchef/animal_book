@@ -1,16 +1,14 @@
-# animal_book
+# animal sounds 앱
 
-A new Flutter project.
+귀여운 동물 아이콘을 탭(tap)하면 해당 동물의 울음소리가 재생되는 앱을 만들어 봅니다.
 
-## Getting Started
+## 주요 내용
 
-This project is a starting point for a Flutter application.
+- AppBar 꾸미기
+- Lottie 파일 사용하기
+- SizedBox 위젯 이해하기
+- Column과 Row 위젯 심화학습
+- Padding과 Container 위젯 이해하기
+- GestureDetector 위젯 사용하기
+- 외부 패키지 사용하기
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
